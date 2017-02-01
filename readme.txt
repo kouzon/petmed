@@ -1,0 +1,1 @@
+this is the readme file for my repo. this repo is for traning purposes for git.
